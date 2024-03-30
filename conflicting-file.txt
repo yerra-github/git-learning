@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 line A
+=======
+line B
+>>>>>>> feature
